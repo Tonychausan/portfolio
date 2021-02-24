@@ -1,0 +1,81 @@
+[
+  {
+    "workplace": "Sopra Steria",
+    "fromTime": "Jun. 2020",
+    "toTime": "Present",
+    "title": "Consultant",
+    "description": "Sopra Steria Group SA is an European information technology consultancy and services company. I Worked as a consultant and was sold out for various projects.",
+    "projects": [
+      {
+        "workplace": "Vy",
+        "fromTime": "Sep. 2020",
+        "toTime": "Feb. 2021",
+        "description": "Vygruppen is one of the Nordic region's largest transport groups and is responsible for offering trains, buses and freight transport. The operational center in Vy keeps track of trains in Norway, and handles all critical incidents in train traffic. Our team was responsible for manageing applications that primarily have Drops (Operational Operations Center) as a \"customer\", but we were also responsible for other applications within train traffic. These applications ranged from reporting systems to train status.",
+        "myRole": "This was a management team, and the tasks ranged from bug fixes to implementing new features. With a team of only developers, we had responsibility for the whole stack, from implementation, database management to deployment.",
+        "tools": "Groovy on Grails, Java, React, Jenkin, Ansible, MariaDB, ActiveMQ, IBM MQ"
+      },
+      {
+        "workplace": "Mattemaraton",
+        "fromTime": "Jun. 2020",
+        "toTime": "Sep. 2020",
+        "description": "Sopra Seteria's charity project for Kikora, which is a digital teaching aid in mathematics. The project was to develop a new App for their Mattemaraton, one of their motivation project to make school students more engaged in running and math.",
+        "tools": ".Net, C#, Xamarin, Android"
+      }
+    ]
+  },
+  {
+    "workplace": "Accenture",
+    "fromTime": "Aug. 2017",
+    "toTime": "Jun. 2020",
+    "title": "Consultant",
+    "description": "Accenture plc is an American-Irish multinational professional services company. I Worked as a consultant and was sold out for various projects. I was also a member of the internal AI group.",
+    "projects": [
+      {
+        "workplace": "Statens Vegvesen",
+        "fromTime": "Des. 2019",
+        "toTime": "Jun. 2020",
+        "description": "Autosys is a motor vehicle and driver's license register for the Norwegian Public Roads Administration (Statens Vegvesen), which is used by the Norwegian Customs, the police, car dealerships, insurance companies etc. I worked as a full-stack on the team which was responsible for the driver's license register.",
+        "myRole": "Was a part of development team, that was responsible for implementing both frontend and backend for the car license registration.",
+        "tools": "Java, Spring boot, React, Redux, Oracle DB, Jenkin, REST"
+      },
+      {
+        "workplace": "NAV",
+        "fromTime": "Aug. 2017",
+        "toTime": "Des. 2019",
+        "description": "The pension project was responsible for introducing the pension reform in NAV, where Accenture was the main contract partner. The goal was to develop new solutions for automated case processing and self-services. The pension project was one of Norway's largest change program, with over 400 project-participants and a total budget of 2.9 billion.",
+        "myRole": "The tasks was mainly on improving and adding feature to the backend of case processing and self-services. This includes database-management, implementations of services and also designing solutions. I have been a developer on a development team at Pension that have been through a major change. From being a newly established team with mostly graduates, the team became independent and worked close with the NAV's experts on pension.",
+        "tools": "Java, Spring, Oracle DB, DB2, REST, SOAP, Python"
+      }
+    ]
+  },
+  {
+    "workplace": "Accenture",
+    "fromTime": "Jun. 2016",
+    "toTime": "Aug. 2016",
+    "title": "Intern",
+    "description": "Attended the Accenture summer internship 2016, working on a concept project called ConnectedCloset. ConnectedCloset was a prototype development of an smart closet utilizing RFID scanning, for feature such as clothing recommendation based on weather. The closet could connect to a cloud service MQTT, and been used as a demo for recruiting.",
+    "tools": "Python, Angluar, Raspberry Pi, RabbitMq, Neo4j, MongoDB"
+  },
+  {
+    "workplace": "Finatext Ltd",
+    "fromTime": "Oct. 2015",
+    "toTime": "Dec. 2015",
+    "title": "Intern",
+    "description": "While exchanging in Japan, I worked as a part-time intern for Finatext, a company that provides a range of mobile financial services. I worked on developing a responsive interface for one of their mobile financial service (あすかぶ) websites, and also an interface for their corporate website.",
+    "tools": "Javascript, CSS, HTML"
+  },
+  {
+    "workplace": "NTNU",
+    "fromTime": "Aug. 2014",
+    "toTime": "Nov. 2014",
+    "title": "Student Assistant - TDT4110/TDT4105",
+    "description": "Helping students with the course TDT4110/4105 (IT Basics Course)."
+  },
+  {
+    "workplace": "NTNU",
+    "fromTime": "Aug. 2013",
+    "toTime": "Nov. 2013",
+    "title": "Student Assistant - TDT4125",
+    "description": "Helping students with the course TDT4125 (Algorithm and Computer structures)."
+  }
+]

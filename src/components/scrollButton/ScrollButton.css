@@ -1,0 +1,68 @@
+.ScrollButton{
+    position: relative;
+    justify-content: center;
+    width: 100%;
+}
+
+@media screen and (max-width: 992px) {
+    .ScrollButton {
+        margin-bottom: 10rem;
+    }
+
+}
+
+.ScrollButton a  {
+    position: absolute;
+    padding-top: 5rem;
+    top: 0;
+    color: white;
+    font-size: 1.5rem;
+    left: 50%;
+    width: 5rem;
+    margin-left: -2.5rem;
+    text-align: center;
+}
+.ScrollButton a:hover  {
+    color: white;
+    cursor: pointer;
+}
+.ScrollButton a span {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 3rem;
+    height: 5rem;
+    margin-left: -1.5rem;
+    border: 0.2rem solid white;
+    border-radius: 2rem;
+    box-sizing: border-box;
+}
+.ScrollButton a span::before {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    content: '';
+    width: 0.3rem;
+    height: 0.3rem;
+    margin-left: -0.15rem;
+    background-color: white;
+    border-radius: 100%;
+    animation: sdb10 2s infinite;
+    box-sizing: border-box;
+}
+@keyframes sdb10 {
+    0% {
+        transform: translate(0, 0);
+        opacity: 0;
+    }
+    40% {
+        opacity: 1;
+    }
+    80% {
+        transform: translate(0, 20px);
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}

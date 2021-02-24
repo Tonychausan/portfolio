@@ -1,0 +1,32 @@
+.Section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    overflow: hidden;
+}
+
+.section-content {
+    width: 100%;
+    max-width: 100rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.Section h1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.section-dark{
+    background-color: #252628;
+    color: white;
+}
+
+@media screen and (max-width: 768px) {
+    .Section h1{
+        font-size: 2rem;
+    }
+}

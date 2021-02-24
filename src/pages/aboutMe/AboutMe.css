@@ -1,0 +1,36 @@
+.app-logo {
+    width: 50%;
+    max-width: 30rem;
+    pointer-events: none;
+    margin-right: 5rem;
+}
+
+.AboutMe {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 992px) {
+    .AboutMe {
+        flex-direction: column;
+    }
+    .AboutMe img {
+        margin-bottom: 2rem;
+    }
+
+    .app-logo {
+        margin-right: 0;
+    }
+
+}
+
+.AboutMe h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+@media screen and (orientation:landscape) {
+    .AboutMe {
+        flex-direction: row;
+    }
+}

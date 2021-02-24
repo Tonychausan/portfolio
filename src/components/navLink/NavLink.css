@@ -1,0 +1,26 @@
+.navLink {
+    color: gray;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.navLink:hover {
+    color: white;
+}
+
+.portfolioLink {
+    color: white;
+    cursor: pointer;
+}
+
+.portfolioLink:hover{
+    color: white;
+    text-decoration: none;
+}
+
+@media (max-width: 575.98px) {
+    .navLink {
+        font-size: 1.3rem;
+    }
+}
+

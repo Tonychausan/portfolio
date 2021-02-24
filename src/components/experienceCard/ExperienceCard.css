@@ -1,0 +1,67 @@
+.ExperienceCard{
+    margin-top: 1rem;
+}
+
+.card-header {
+    display: flex;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    cursor: pointer;
+}
+
+.card-header-text {
+    width: 98%;
+}
+
+.card-header-header {
+    display: flex;
+}
+
+.card-header-text h2 {
+    color: #DC5D6A;
+}
+
+.card-header-text h2, .card-header-text h4 {
+    margin-right: 0.5rem;
+}
+
+.card-header-icon {
+    width: 2%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    .card-header {
+        flex-direction: column;
+    }
+
+    .card-header-text {
+        width: 100%;
+        text-align: center;
+    }
+
+    .card-header-icon {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .card-header-header {
+        flex-direction: column;
+    }
+
+    .card-header-text h2 {
+        font-size: 1.5rem;
+    }
+
+    .card-header-text h4 {
+        font-size: 1rem;
+    }
+
+    .card-header-date {
+        font-size: 0.8rem !important;
+    }
+
+
+}

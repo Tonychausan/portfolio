@@ -1,8 +1,25 @@
 [
   {
+    "workplace": "Webstep",
+    "fromTime": "May 2021",
+    "toTime": "Present",
+    "title": "Consultant",
+    "description": "Sopra Steria Group SA is an European information technology consultancy and services company. I Worked as a consultant and was sold out for various projects.",
+    "projects": [
+      {
+        "workplace": "Norgesgruppen Data",
+        "fromTime": "May 2021",
+        "toTime": "Present",
+        "description": "NorgesGruppen Data delivers the overall IT-projects and services in Norgesgruppen. Norgesgruppen is Norway's largest retail company. NorgesGruppen is a Norwegian grocery wholesaling group which also runs various retail outlets.",
+        "myRole": "Tony worked mainly with reformatting, this includes, among other things, rewriting of old implementations and technical upgrad of various outdated frameworks. Tony also assisted in the development of other functionalities the team had responsibility for, e.g. item loading. ",
+        "tools": "Java, Spring Boot, Spring Batch, Oracle DB, Java EJB"
+      }
+    ]
+  },
+  {
     "workplace": "Sopra Steria",
     "fromTime": "Jun. 2020",
-    "toTime": "Present",
+    "toTime": "May 2021",
     "title": "Consultant",
     "description": "Sopra Steria Group SA is an European information technology consultancy and services company. I Worked as a consultant and was sold out for various projects.",
     "projects": [
